@@ -1,6 +1,6 @@
 # Step 4: Verify That the Base Test Lab Is Operational<a name="microsoftadbasestep4"></a>
 
-Use the following procedure to verify that the test lab has been set up successfully before adding on additional test lab guide modules\. This procedure verifies that your Windows Server is configured appropriately, can connect to the corp\.example\.com domain, and be used to administer your AWS Managed Microsoft AD forest\. 
+Use the following procedure to verify that the test lab has been set up successfully before adding on additional test lab guide modules\. This procedure verifies that your Windows Server is configured appropriately, can connect to the corp\.example\.com domain, and be used to administrator your AWS Managed Microsoft AD forest\. 
 
 **To verify that the test lab is operational**
 
